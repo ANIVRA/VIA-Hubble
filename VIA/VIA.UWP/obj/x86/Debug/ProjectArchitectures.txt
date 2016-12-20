@@ -1,0 +1,2 @@
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA.UWP\VIA.UWP.csproj;x86
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\VIA.csproj;neutral

@@ -1,0 +1,268 @@
+C:\Temp\VIA\VIA\VIA\bin\Debug\VIA.dll.config
+C:\Temp\VIA\VIA\VIA\bin\Debug\VIA.dll
+C:\Temp\VIA\VIA\VIA\bin\Debug\VIA.pdb
+C:\Temp\VIA\VIA\VIA\bin\Debug\Acr.UserDialogs.dll
+C:\Temp\VIA\VIA\VIA\bin\Debug\Acr.UserDialogs.Interface.dll
+C:\Temp\VIA\VIA\VIA\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Temp\VIA\VIA\VIA\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Temp\VIA\VIA\VIA\bin\Debug\MvvmHelpers.dll
+C:\Temp\VIA\VIA\VIA\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\VIA\VIA\VIA\bin\Debug\Prism.dll
+C:\Temp\VIA\VIA\VIA\bin\Debug\Prism.Forms.dll
+C:\Temp\VIA\VIA\VIA\bin\Debug\Prism.Unity.Forms.dll
+C:\Temp\VIA\VIA\VIA\bin\Debug\Splat.dll
+C:\Temp\VIA\VIA\VIA\bin\Debug\System.Net.Http.dll
+C:\Temp\VIA\VIA\VIA\bin\Debug\System.Net.Http.Extensions.dll
+C:\Temp\VIA\VIA\VIA\bin\Debug\System.Net.Http.Primitives.dll
+C:\Temp\VIA\VIA\VIA\bin\Debug\Xamarin.Forms.Core.dll
+C:\Temp\VIA\VIA\VIA\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Temp\VIA\VIA\VIA\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Temp\VIA\VIA\VIA\bin\Debug\Acr.UserDialogs.Interface.pdb
+C:\Temp\VIA\VIA\VIA\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Temp\VIA\VIA\VIA\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Temp\VIA\VIA\VIA\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Temp\VIA\VIA\VIA\bin\Debug\MvvmHelpers.xml
+C:\Temp\VIA\VIA\VIA\bin\Debug\Newtonsoft.Json.xml
+C:\Temp\VIA\VIA\VIA\bin\Debug\Prism.xml
+C:\Temp\VIA\VIA\VIA\bin\Debug\Prism.Forms.xml
+C:\Temp\VIA\VIA\VIA\bin\Debug\Prism.Unity.Forms.xml
+C:\Temp\VIA\VIA\VIA\bin\Debug\System.Net.Http.xml
+C:\Temp\VIA\VIA\VIA\bin\Debug\System.Net.Http.Extensions.xml
+C:\Temp\VIA\VIA\VIA\bin\Debug\System.Net.Http.Primitives.xml
+C:\Temp\VIA\VIA\VIA\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Temp\VIA\VIA\VIA\bin\Debug\Xamarin.Forms.Core.xml
+C:\Temp\VIA\VIA\VIA\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Temp\VIA\VIA\VIA\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Temp\VIA\VIA\VIA\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Temp\VIA\VIA\VIA\obj\Debug\VIA.csproj.App.config
+C:\Temp\VIA\VIA\VIA\obj\Debug\VIA.MainPage.xaml.g.cs
+C:\Temp\VIA\VIA\VIA\obj\Debug\VIA.Pages.Recalls.xaml.g.cs
+C:\Temp\VIA\VIA\VIA\obj\Debug\VIA.Pages.Images.xaml.g.cs
+C:\Temp\VIA\VIA\VIA\obj\Debug\VIA.Pages.ImageList.xaml.g.cs
+C:\Temp\VIA\VIA\VIA\obj\Debug\VIA.dll
+C:\Temp\VIA\VIA\VIA\obj\Debug\VIA.pdb
+C:\Temp\VIA\VIA\VIA\obj\Debug\VIA.csprojResolveAssemblyReference.cache
+C:\Temp\VIA\VIA\VIA\obj\Debug\VIA.dll.mdb
+C:\Temp\VIA\VIA\VIA\bin\Debug\VIA.dll.mdb
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\VIA.dll.config
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\VIA.dll
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\VIA.pdb
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\Acr.UserDialogs.dll
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\Acr.UserDialogs.Interface.dll
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\MvvmHelpers.dll
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\Prism.dll
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\Prism.Forms.dll
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\Prism.Unity.Forms.dll
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\Splat.dll
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\System.Net.Http.dll
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\System.Net.Http.Extensions.dll
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\System.Net.Http.Primitives.dll
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\Xamarin.Forms.Core.dll
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\Acr.UserDialogs.Interface.pdb
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\MvvmHelpers.xml
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\Newtonsoft.Json.xml
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\Prism.xml
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\Prism.Forms.xml
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\Prism.Unity.Forms.xml
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\System.Net.Http.xml
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\System.Net.Http.Extensions.xml
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\System.Net.Http.Primitives.xml
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\Xamarin.Forms.Core.xml
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Temp\VIA-ALPHA\VIA\VIA\obj\Debug\VIA.csproj.App.config
+C:\Temp\VIA-ALPHA\VIA\VIA\obj\Debug\VIA.MainPage.xaml.g.cs
+C:\Temp\VIA-ALPHA\VIA\VIA\obj\Debug\VIA.Pages.RecallsPage.xaml.g.cs
+C:\Temp\VIA-ALPHA\VIA\VIA\obj\Debug\VIA.Pages.ImagesPage.xaml.g.cs
+C:\Temp\VIA-ALPHA\VIA\VIA\obj\Debug\VIA.Pages.ImageList.xaml.g.cs
+C:\Temp\VIA-ALPHA\VIA\VIA\obj\Debug\VIA.dll
+C:\Temp\VIA-ALPHA\VIA\VIA\obj\Debug\VIA.pdb
+C:\Temp\VIA-ALPHA\VIA\VIA\obj\Debug\VIA.dll.mdb
+C:\Temp\VIA-ALPHA\VIA\VIA\bin\Debug\VIA.dll.mdb
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\VIA.dll.config
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\VIA.dll
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\VIA.pdb
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\Acr.UserDialogs.dll
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\Acr.UserDialogs.Interface.dll
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\MvvmHelpers.dll
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\Prism.dll
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\Prism.Forms.dll
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\Prism.Unity.Forms.dll
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\Splat.dll
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\System.Net.Http.dll
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\System.Net.Http.Extensions.dll
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\System.Net.Http.Primitives.dll
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\Xamarin.Forms.Core.dll
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\Acr.UserDialogs.Interface.pdb
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\MvvmHelpers.xml
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\Newtonsoft.Json.xml
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\Prism.xml
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\Prism.Forms.xml
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\Prism.Unity.Forms.xml
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\System.Net.Http.xml
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\System.Net.Http.Extensions.xml
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\System.Net.Http.Primitives.xml
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\Xamarin.Forms.Core.xml
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\obj\Debug\VIA.csproj.App.config
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\obj\Debug\VIA.MainPage.xaml.g.cs
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\obj\Debug\VIA.Pages.RecallsPage.xaml.g.cs
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\obj\Debug\VIA.Pages.ImagesPage.xaml.g.cs
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\obj\Debug\VIA.dll
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\obj\Debug\VIA.pdb
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\obj\Debug\VIA.dll.mdb
+C:\Temp\VIA-ALPHA - Copy\VIA\VIA\bin\Debug\VIA.dll.mdb
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\VIA.dll.config
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\VIA.dll
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\VIA.pdb
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Acr.UserDialogs.dll
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Acr.UserDialogs.Interface.dll
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\MvvmHelpers.dll
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Prism.dll
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Prism.Forms.dll
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Prism.Unity.Forms.dll
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Splat.dll
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\System.Net.Http.dll
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\System.Net.Http.Extensions.dll
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\System.Net.Http.Primitives.dll
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Xamarin.Forms.Core.dll
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Acr.UserDialogs.Interface.pdb
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\MvvmHelpers.xml
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Newtonsoft.Json.xml
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Prism.xml
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Prism.Forms.xml
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Prism.Unity.Forms.xml
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\System.Net.Http.xml
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\System.Net.Http.Extensions.xml
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\System.Net.Http.Primitives.xml
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Xamarin.Forms.Core.xml
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\obj\Debug\VIA.csproj.App.config
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\obj\Debug\VIA.MainPage.xaml.g.cs
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\obj\Debug\VIA.Pages.RecallsPage.xaml.g.cs
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\obj\Debug\VIA.Pages.ImagesPage.xaml.g.cs
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\obj\Debug\VIA.dll
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\obj\Debug\VIA.pdb
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\obj\Debug\VIA.csprojResolveAssemblyReference.cache
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\obj\Debug\VIA.dll.mdb
+C:\Temp\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\VIA.dll.mdb
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\VIA.dll.config
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\VIA.dll
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\VIA.pdb
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Acr.UserDialogs.dll
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Acr.UserDialogs.Interface.dll
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Microsoft.Practices.Unity.dll
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\MvvmHelpers.dll
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Prism.dll
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Prism.Forms.dll
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Prism.Unity.Forms.dll
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Splat.dll
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\System.Net.Http.dll
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\System.Net.Http.Extensions.dll
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\System.Net.Http.Primitives.dll
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Xamarin.Forms.Core.dll
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Xamarin.Forms.Platform.dll
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Xamarin.Forms.Xaml.dll
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Acr.UserDialogs.Interface.pdb
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Microsoft.Practices.Unity.xml
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\MvvmHelpers.xml
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Prism.xml
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Prism.Forms.xml
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Prism.Unity.Forms.xml
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\System.Net.Http.xml
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\System.Net.Http.Extensions.xml
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\System.Net.Http.Primitives.xml
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Xamarin.Forms.Core.pdb
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Xamarin.Forms.Core.xml
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Xamarin.Forms.Platform.pdb
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Xamarin.Forms.Xaml.pdb
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Xamarin.Forms.Xaml.xml
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\obj\Debug\VIA.csproj.App.config
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\obj\Debug\VIA.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\obj\Debug\VIA.MainPage.xaml.g.cs
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\obj\Debug\VIA.Pages.RecallsPage.xaml.g.cs
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\obj\Debug\VIA.Pages.ImagesPage.xaml.g.cs
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\obj\Debug\VIA.dll
+\\Mac\Home\Documents\VIA copies\VIA_ALPHA_DEV\VIA\VIA\obj\Debug\VIA.pdb
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\VIA.dll.config
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\VIA.dll
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\VIA.pdb
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Acr.UserDialogs.dll
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Acr.UserDialogs.Interface.dll
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\MvvmHelpers.dll
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Newtonsoft.Json.dll
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Prism.dll
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Prism.Forms.dll
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Prism.Unity.Forms.dll
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Splat.dll
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\System.Net.Http.dll
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\System.Net.Http.Extensions.dll
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\System.Net.Http.Primitives.dll
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Xamarin.Forms.Core.dll
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Acr.UserDialogs.Interface.pdb
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\MvvmHelpers.xml
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Newtonsoft.Json.xml
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Prism.xml
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Prism.Forms.xml
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Prism.Unity.Forms.xml
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\System.Net.Http.xml
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\System.Net.Http.Extensions.xml
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\System.Net.Http.Primitives.xml
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Xamarin.Forms.Core.xml
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\obj\Debug\VIA.csproj.App.config
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\obj\Debug\VIA.csprojResolveAssemblyReference.cache
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\obj\Debug\VIA.MainPage.xaml.g.cs
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\obj\Debug\VIA.Pages.RecallsPage.xaml.g.cs
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\obj\Debug\VIA.Pages.ImagesPage.xaml.g.cs
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\obj\Debug\VIA.dll
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\obj\Debug\VIA.pdb
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\obj\Debug\VIA.dll.mdb
+C:\Temp\Xamarin\VIA_ALPHA_DEV\VIA\VIA\bin\Debug\VIA.dll.mdb

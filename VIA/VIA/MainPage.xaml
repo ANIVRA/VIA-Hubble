@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:VIA"
+             x:Class="VIA.MainPage"
+             Title="Vehicle Information App"
+             Padding="0, 20, 0, 0">
+
+  <StackLayout>
+
+    <Label x:Name="header" Text="V.I.A.">
+    </Label>
+    <StackLayout>
+      <Picker x:Name="pickerYears" VerticalOptions="CenterAndExpand" Title="Years"/>
+      <Picker x:Name="pickerMakes" VerticalOptions="CenterAndExpand" Title="Makes"/>
+      <Picker x:Name="pickerModels" VerticalOptions="CenterAndExpand" Title="Models"/>
+      <Label x:Name="modelSource" HorizontalOptions="EndAndExpand" FontSize="8"></Label>
+      <!--<Picker x:Name="pickerTrims" VerticalOptions="CenterAndExpand" Title="Trims"/>-->
+    </StackLayout>
+
+
+    <ActivityIndicator x:Name="busyIndicator"/>
+
+    <Label x:Name="carLabel" Text="" HorizontalTextAlignment="Center"/>
+    <Image x:Name="carImage" Source=""/>
+
+
+    <StackLayout Orientation="Horizontal">
+      <Button x:Name="btnRecall" Text="ReCalls" Clicked="OnRecallsClicked" VerticalOptions="CenterAndExpand" TextColor="White" BackgroundColor="#77D065" />
+      <Button x:Name="btnImage" Text="Images [+]" Clicked="OnImagesClicked" VerticalOptions="CenterAndExpand" TextColor="White" BackgroundColor="#77D065"/>
+      <Button x:Name="btnRefresh" Text="New Search" Clicked="OnRefreshClicked" VerticalOptions="EndAndExpand" TextColor="White" BackgroundColor="#77D065"/>
+    </StackLayout>
+
+  </StackLayout>
+
+</ContentPage>
